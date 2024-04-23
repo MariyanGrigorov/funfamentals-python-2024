@@ -1,1 +1,0 @@
-# funfamentals-python-2024
